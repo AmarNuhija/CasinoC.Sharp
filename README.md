@@ -86,7 +86,7 @@
 
 ---
 
-## 🚀 Beispiel-Screenshot
+## 🚀 Beispiel
 
 ```text
 🎰 Willkommen im Online-Casino der doppel A's!
@@ -96,3 +96,4 @@
 2 - BlackJack spielen
 3 - Beenden
 ▶ Deine Auswahl: _
+
