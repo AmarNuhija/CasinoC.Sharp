@@ -59,9 +59,9 @@
 
 1. Kompilieren & starten mit Visual Studio oder `dotnet run`
 2. Im Menü aus folgenden Optionen wählen:
-   - `1` – Slot Machine
-   - `2` – Blackjack
-   - `3` – Beenden
+       – Slot Machine
+       – Blackjack
+       – Beenden
 3. Folge den Anweisungen im Terminal und versuche dein Glück!
 
 ---
@@ -96,4 +96,5 @@
 2 - BlackJack spielen
 3 - Beenden
 ▶ Deine Auswahl: _
+
 
